@@ -38,7 +38,7 @@ This is a simple hobby project which i was really curious about to impliment. Th
 **Clone and setup virtual environment**
 
 ``` bash
-git clone https://github.com/odysseusmax/utube.git
+git clone https://github.com/Sanju8943/utube.git
 
 cd utube
 
@@ -79,7 +79,7 @@ If you did everything correctly, the bot should be running. Go do `/start` to se
 
 **Or the easy way of directly deploying to heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/odysseusmax/utube/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanju8943/utube/tree/master)
 
 
 
