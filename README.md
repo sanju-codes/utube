@@ -8,13 +8,13 @@
 
 ### Contents
 
-* [Info](https://github.com/odysseusmax/utube#info)
-* [Libraries Used](https://github.com/odysseusmax/utube#libraries-used)
-* [Setup](https://github.com/odysseusmax/utube#setup)
-* [Status](https://github.com/odysseusmax/utube#status)
-* [Special Notes](https://github.com/odysseusmax/utube#special-notes)
-* [Screenshots](https://github.com/odysseusmax/utube#screenshots)
-* [Contact](https://github.com/odysseusmax/utube#contact)
+* [Info](https://github.com/Sanju8943/utube#info)
+* [Libraries Used](https://github.com/Sanju8943/utube#libraries-used)
+* [Setup](https://github.com/Sanju8943/utube#setup)
+* [Status](https://github.com/Sanju8943/utube#status)
+* [Special Notes](https://github.com/Sanju8943/utube#special-notes)
+* [Screenshots](https://github.com/Sanju8943/utube#screenshots)
+* [Contact](https://github.com/Sanju8943/utube#contact)
 
 ### Info
 
@@ -98,19 +98,19 @@ This project is actively maintained and will continue so until I'm tired of it.
 ### Screenshots
 <p align="center">
 
-<img  width="25%" height="25%" src="https://github.com/odysseusmax/utube/blob/master/ss/overview.jpg">
+<img  width="25%" height="25%" src="https://github.com/Sanju8943/utube/blob/master/ss/overview.jpg">
 
-<img  width="25%" height="25%" src="https://github.com/odysseusmax/utube/blob/master/ss/bot-start.jpg">
+<img  width="25%" height="25%" src="https://github.com/Sanju8943/utube/blob/master/ss/bot-start.jpg">
 
-<img  width="25%" height="25%" src="https://github.com/odysseusmax/utube/blob/master/ss/bot-help.jpg">
+<img  width="25%" height="25%" src="https://github.com/Sanju8943/utube/blob/master/ss/bot-help.jpg">
 
-<img  width="25%" height="25%" src="https://github.com/odysseusmax/utube/blob/master/ss/bot-authorise.jpg">
+<img  width="25%" height="25%" src="https://github.com/Sanju8943/utube/blob/master/ss/bot-authorise.jpg">
 
-<img  width="25%" height="25%" alt="Upload" src="https://github.com/odysseusmax/utube/blob/master/ss/bot-upload.jpg">
+<img  width="25%" height="25%" alt="Upload" src="https://github.com/Sanju8943/utube/blob/master/ss/bot-upload.jpg">
 
 </p>
 
 ### Contact
 
 Share the FeedBack and Suggestions with me.
-You can contact me [Here](https://telegram.dog/odysseusmax "Contact me")
+You can contact me [Here](https://www.sanjupappachan.tk "Contact me")
